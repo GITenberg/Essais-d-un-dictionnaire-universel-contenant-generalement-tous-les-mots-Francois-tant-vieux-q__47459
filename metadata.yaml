@@ -1,4 +1,8 @@
 _repo: Essais-d-un-dictionnaire-universel-contenant-generalement-tous-les-mots-Francois-tant-vieux-q__47459
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47459-h/images/cover.jpg
 creator:
   author:
     agent_name: Furetière, Antoine
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36391
     wikipedia: http://fr.wikipedia.org/wiki/Antoine_Fureti%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47459#Essais-d-un-dictionnaire-universel-contenant-generalement-tous-les-mots-Francois-tant-vieux-q_
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
