@@ -24,6 +24,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Essais d''un dictionnaire universel
 
   contenant généralement tous les mots François tant vieux
